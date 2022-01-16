@@ -1,8 +1,8 @@
 # Linux Araçları ve Kabuk Programlama Dersi Projeleri
 
 ## 1) tar komutu için görsel arayüz
-NURSEDA DİKER
-https://github.com/nurseda-diker/LinuxShellScript-TarCommand
+- NURSEDA DİKER
+  - https://github.com/nurseda-diker/LinuxShellScript-TarCommand
 
 ## 2) Shell Script kullanılarak basit bir TODO List uygulaması
 
